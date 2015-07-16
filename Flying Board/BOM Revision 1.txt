@@ -1,0 +1,29 @@
+Per Converter Unit, prices at single unit ordered 20131202:
+
+ATMEGA32U2 32-TQFP, 32k memory ($4.50)
+http://www.digikey.com/product-detail/en/ATMEGA32U2-AU/ATMEGA32U2-AU-ND/2187167
+
+USB-B, right angle, SMD ($1.28)
+http://www.digikey.com/product-detail/en/USB-B1SMHSW6/ED2994-ND/2677755
+
+mini-DIN4, right angle, SMD, shielded ($2.06)
+http://www.digikey.com/product-detail/en/MD2-40ST-SMT/CP-3145-ND/724797
+
+Precision 16MHz crystal oscillator, SMD HC49 ($0.57)
+http://www.digikey.com/product-detail/en/9C-16.000MEEJ-T/887-1274-1-ND/2207856
+
+Tactile pushbutton switch, SMD ($0.28)
+http://www.digikey.com/product-detail/en/PTS810%20SJK%20250%20SMTR%20LFS/CKN10503CT-ND/4176675
+
+Total in parts to be ordered: $8.69
+
+Passives in 0603, available through university
+	1 µF x1
+	0.1 µF x2
+	10 pF x2
+	22 ohm x2
+	LED x2
+	1k ohm x4 (one pull-up is optional)
+
+Passives in 0805, available through university
+	1 µF x2 (decoupling, may be higher?)

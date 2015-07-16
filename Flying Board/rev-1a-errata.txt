@@ -1,0 +1,5 @@
+Rev 1a Errata
+	miniDIN has too small of a mounting hole (drill to fix)
+	miniDIN has too small shield holes (modify connector to fit)
+	USB has completely the wrong pinout. (cut traces, solder wires)
+	Crystal probably too close to edge
