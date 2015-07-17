@@ -1,0 +1,2 @@
+SW1 operation uncertain. Green-wiring ground to the appropriate switch pin resulted in more reliable operation.
+SW2 100% mis-wired. Requires cutting traces and adding correct connections from data and power to the output traces.
