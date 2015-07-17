@@ -1,0 +1,31 @@
+Bill of Materials: Revision 1 Ordering
+
+3x USB-B, right angle, SMD
+http://www.digikey.com/product-detail/en/USB-B1SMHSW6/ED2994-ND/2677755
+
+3x Precision 16MHz crystal, SMD
+http://www.digikey.com/product-detail/en/ABM3B-16.000MHZ-10-1-U-T/300-8206-1-ND/687899
+
+3x Tactile pushbutton switch, SMD
+http://www.digikey.com/product-detail/en/PTS810%20SJM%20250%20SMTR%20LFS/CKN10502CT-ND/4176673
+
+3x DPDT slide switch, SMD
+http://www.digikey.com/product-detail/en/JS202011SCQN/401-2002-1-ND/1640098
+
+10x Right angle 6 position, 1 row 0.100" female socket header, through hole
+http://www.samtec.com/technical-specifications/default.aspx?SeriesMaster=SSW
+SSW-106-03-F-S-RA
+Request samples.
+
+Passive components through think[Box] electronics materials and storeroom parts.
+
+In 0603
+	- 3x 0.1 uF X7R
+	- 2x 1 uF X7R
+	- 2x 22 ohm
+	- 2x 1k ohm
+	- 2x 10 pF C0G
+
+In 0805
+	- 1M ohm
+	- 470 pF, 50+V C0G
